@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82ee94a4746378644857cf65fa26d0b3, type: 3}
+  m_Name: SampleSceneSO
+  m_EditorClassIdentifier: 
+  sceneName: SampleScene
+  reactiveCharacters:
+  - {fileID: 11400000, guid: 0580e866c2316b84da2d5432e5beeb5d, type: 2}
+  - {fileID: 11400000, guid: 7af94067c975d5040b2abb28829a5a15, type: 2}
+  - {fileID: 11400000, guid: a0c158a483508014e8f15c2682320855, type: 2}
+  - {fileID: 11400000, guid: 2f161b575e2822b4fab168d28222ad1a, type: 2}
+  selectedCharacterPrefabs:
+  - {fileID: 919132149155446097, guid: e55dd8dc11a6978409234f12d8a05072, type: 3}
+  - {fileID: 919132149155446097, guid: 027f46f3595e59549a1c6ccadebd1c6d, type: 3}
+  - {fileID: 919132149155446097, guid: 3ca5dc1d94828764aa7664b28f89c5d0, type: 3}
+  - {fileID: 919132149155446097, guid: 53959553bcafad048a9e7767f5337539, type: 3}
+  isReactiveScene: 1

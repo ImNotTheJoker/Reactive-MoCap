@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13e0561251dfedd45a276cd33f58fd51, type: 3}
+  m_Name: AdamSO
+  m_EditorClassIdentifier: 
+  characterName: Adam
+  characterPrefab: {fileID: 919132149155446097, guid: 53959553bcafad048a9e7767f5337539, type: 3}
+  characterPosition: {x: 3.1659827, y: 0, z: -0.0066012195}
+  characterRotation: {x: -0, y: 176.35938, z: 0}
+  mainAnimations:
+  - {fileID: 7400000, guid: 3e922ca14b28bbc449ece2dbdb538d0d, type: 2}
+  interrupters:
+  - {fileID: 11400000, guid: f6e32663f4cea6d48af6674db65dbbf1, type: 2}

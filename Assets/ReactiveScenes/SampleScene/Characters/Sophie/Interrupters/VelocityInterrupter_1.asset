@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8e56db868361dd41b77b315e9efdf6d, type: 3}
+  m_Name: VelocityInterrupter_1
+  m_EditorClassIdentifier: 
+  interrupterName: VelocityInterrupter_1
+  relevantGameObjectNames:
+  - CenterEyeAnchor
+  MaxDistance: 10
+  MinDuration: 0
+  Priority: 0
+  ReactiveAnimations:
+  - {fileID: 7400000, guid: 8e2cec1a438537e4fa033f86a2e3a5ee, type: 2}
+  VelocityThreshold: 0.2
