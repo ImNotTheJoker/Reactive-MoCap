@@ -21,7 +21,7 @@ A project designed to enable motion capture and responsive character animation u
 
 1. **Clone the Repository**
    ```bash
-   git clone https://dev.ixlab.inf.tu-dresden.de/student-projects/thesis/artem-bykov/master-thesis-reactive-mocap.git
+   git clone https://github.com/ImNotTheJoker/Reactive-MoCap.git
    ```
 
 2. **Open the Project in Unity**
@@ -39,14 +39,14 @@ A project designed to enable motion capture and responsive character animation u
    - Confirm the connection when prompted.
 
 6. **Start the Scene**
-   - Press the **Play** button in the Unity Editor to start the scene and put on the headset.
-   - If the avatar does not align correctly, restart the scene by stopping and playing it again.
+   - Press the **Play** button in the Unity editor to start the scene and put on the headset.
+   - If the avatar does not align correctly, restart the scene by stopping and playing it again in the editor.
 
 7. **Recalibrate Position** *(if necessary)*
-   - If you are outside the house or improperly aligned, recalibrate your position by holding together the index finger and thumb on your right hand until you are correctly positioned in front of the menu.
+   - If you are off-center or incorrectly positioned, recalibrate your position by holding the index finger and thumb of your right hand together until you are in the correct position in front of the menu.
 
 8. **Start the Creation Process**
-   - From the menu in the application, select the option to create a new scene.
+   - From the application menu, select the option to create a new scene or edit an existing scene.
 
 ---
 Enjoy exploring and creating with Reactive MoCap!
